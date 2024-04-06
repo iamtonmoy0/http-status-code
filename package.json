@@ -1,5 +1,5 @@
 {
-  "name": "http-status-code",
+  "name": "response-status-code",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamtonmoy0/http-status-code"
+    "url": "https://github.com/iamtonmoy0/http-status-code.git"
   },
   "author": "Tonmoy",
   "license": "ISC",
