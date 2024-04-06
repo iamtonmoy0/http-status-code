@@ -1,0 +1,30 @@
+{
+  "name": "http-status-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "HttpStatus",
+    "http",
+    "client",
+    "status",
+    "codes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamtonmoy0/http-status-code"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.5",
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.4"
+  }
+}
