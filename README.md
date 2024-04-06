@@ -11,7 +11,7 @@ You can install the package via npm:
 ### bash
 
 ```sh
-npm install http-status-codes-express
+npm install response-status-code
 ```
 
 ### Usage
@@ -20,13 +20,13 @@ Importing
 You can import the HTTP status codes object as http:
 
 ```javascript
-const http = require("http-status-codes-express");
+const http = require("response-status-code");
 ```
 
 Or if you're using ES6 modules:
 
 ```javascript
-import http from "http-status-codes-express";
+import http from "response-status-code";
 ```
 
 ### Example
@@ -36,7 +36,7 @@ Here's how you can use it in an Express route:
 ```javascript
 const express = require("express");
 const app = express();
-const http = require("http-status-codes-express");
+const http = require("response-status-code");
 
 app.get("/example", (req, res) => {
   // Send a 200 OK response
