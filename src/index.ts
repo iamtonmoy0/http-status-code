@@ -1,4 +1,4 @@
-export const http = {
+ const http = {
     statusContinue: 100,
     statusSwitchingProtocols: 101,
     statusProcessing: 102,
